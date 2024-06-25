@@ -122,11 +122,11 @@ int main()
                 if (music.getStatus() == sf::SoundSource::Playing) music.stop();
 
                 // Remove this backdoor
-                if (sf::Keyboard::isKeyPressed(sf::Keyboard::Equal))
-                {
-                    cout << "The word is " << game.getWords().whatsTheWord() << endl;
-                    break;
-                }
+                //if (sf::Keyboard::isKeyPressed(sf::Keyboard::Equal))
+                //{
+                //    cout << "The word is " << game.getWords().whatsTheWord() << endl;
+                //    break;
+                //}
 
                 // Did the player ask for a hint?
                 // Only 3 hints are available for practice games

@@ -74,7 +74,7 @@ void Statistics::readStatsFile()
     //cout << "Last number of guesses = " << numberOfGuesses << endl;
     //cout << "Number of games played = " << played << endl;
     // test lastDate
-    lastDate = getDateFromDateTime(time(nullptr)) - 86400;
+    // lastDate = getDateFromDateTime(time(nullptr)) - 86400;
     statfile.close();
 }
 
