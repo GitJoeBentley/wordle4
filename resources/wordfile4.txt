@@ -1,3 +1,4 @@
+abed
 able
 ably
 aced
@@ -17,6 +18,7 @@ alee
 alit
 ally
 also
+amen
 amid
 aped
 aper
@@ -48,6 +50,7 @@ bank
 barb
 bard
 bare
+barf
 barn
 base
 bash
@@ -202,6 +205,7 @@ cost
 cosy
 coup
 cove
+cowl
 cozy
 crab
 crag
@@ -214,11 +218,13 @@ crow
 crud
 cube
 cure
+curl
 daft
 dale
 dame
 damp
 dang
+dank
 dare
 dark
 darn
@@ -390,6 +396,7 @@ fuel
 full
 fume
 fund
+funk
 fuse
 fuss
 gain
@@ -474,6 +481,7 @@ hear
 heat
 heck
 heed
+heft
 heir
 held
 hell
@@ -486,11 +494,13 @@ here
 hero
 hewn
 hide
+hied
 high
 hike
 hill
 hilt
 hind
+hint
 hire
 hiss
 hive
@@ -517,6 +527,7 @@ hull
 hulu
 hump
 hung
+hunk
 hunt
 hurl
 hurt
@@ -531,9 +542,11 @@ idly
 inch
 into
 iron
+isle
 itch
 item
 jack
+jade
 jane
 jazz
 jean
@@ -643,7 +656,9 @@ loll
 lone
 long
 look
+loom
 loon
+loop
 loot
 lope
 lord
@@ -760,6 +775,7 @@ none
 nose
 note
 noun
+nude
 numb
 oath
 obey
@@ -815,6 +831,7 @@ perk
 perm
 perp
 pert
+pest
 phew
 pick
 pier
@@ -901,6 +918,7 @@ rate
 rave
 read
 real
+ream
 reap
 rear
 redo
@@ -918,6 +936,7 @@ rift
 rile
 rind
 ring
+rink
 ripe
 rise
 risk
@@ -930,7 +949,9 @@ rode
 role
 roll
 rome
+romp
 roof
+rook
 room
 root
 rope
@@ -1040,6 +1061,7 @@ slur
 smug
 snap
 snit
+snot
 snow
 snug
 soak
@@ -1081,6 +1103,7 @@ stem
 step
 stew
 stop
+stow
 stub
 stud
 stun
@@ -1217,6 +1240,7 @@ vole
 volt
 vote
 wade
+waft
 wage
 wait
 wake
